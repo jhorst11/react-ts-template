@@ -1,6 +1,6 @@
-# react typescript with hot module reload
+# create-react-app typescript with hot module reload
 
-This is a Typescript template project made with Create React App that supports hot module reload.
+This is a Typescript template project made with Create React App that supports hot module reload (without eject).
 
 Here's what it does:
 
