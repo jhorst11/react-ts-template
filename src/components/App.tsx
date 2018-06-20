@@ -34,7 +34,7 @@ const App = () => (
   <AppContainer>
     <Counter />
     <Counter />
-    <div>Change me an watch me hot reload</div>
+    <div>Change me and watch me hot reload</div>
   </AppContainer>
 );
 export default App;
